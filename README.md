@@ -2,8 +2,7 @@
 用 Flutter 仿写 闲鱼App
 
 # 首页
-<img src="https://github.com/fanyu/fish_shipping/blob/master/images/home1.png?raw=true" width="200" />
-<img src="https://github.com/fanyu/fish_shipping/blob/master/images/home2.png?raw=true" width="200" />
+<img src="https://github.com/fanyu/fish_shipping/blob/master/images/home1.png?raw=true" width="414" /> <img src="https://github.com/fanyu/fish_shipping/blob/master/images/home2.png?raw=true" width="414" />
 
 # 搜索
 ![image](https://github.com/fanyu/fish_shipping/blob/master/images/search1.png)
