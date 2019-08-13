@@ -1,7 +1,7 @@
 # 用 Flutter 仿写的 闲鱼App
 
-# 前言
-学习 Flutter 过程中，练手的仿写的App。
+学习 Flutter 过程中，练手的仿写的App。只写
+
 
 # 首页
 <img src="https://github.com/fanyu/fish_shipping/blob/master/images/home1.png?raw=true" width="414" /> <img src="https://github.com/fanyu/fish_shipping/blob/master/images/home2.png?raw=true" width="414" />
